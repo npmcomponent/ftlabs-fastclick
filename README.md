@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [ftlabs/fastclick](http://github.com/ftlabs/fastclick). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/ftlabs-fastclick`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # FastClick #
 
 FastClick is a simple, easy-to-use library for eliminating the 300ms delay between a physical tap and the firing of a `click` event on mobile browsers. The aim is to make your application feel less laggy and more responsive while avoiding any interference with your current logic.
